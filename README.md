@@ -6,10 +6,13 @@ The dataset being used to train the ML (backend): Deceptive Opinion Spam Corpus 
 <br/>
 
 Installations
+```
 pip install -r requirements.txt
+```
 <br/>
 <br/>
 Run the app
+```
 python app.py
-
+```
 Go to localhost:5000 to predict the review!!!
